@@ -9,8 +9,7 @@ MODULES = [
     'mixnet',
     'postproc',
     'store',
-    'visualizer',
-    'voting',
+    'visualizer'
 ]
 
 APIS = {
