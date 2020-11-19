@@ -8,9 +8,7 @@ MODULES = [
     'census',
     'mixnet',
     'postproc',
-    'store',
-    'visualizer',
-    'voting',
+    'store'
 ]
 
 APIS = {
@@ -25,7 +23,7 @@ APIS = {
     'voting': 'http://10.5.0.1:8000',
 }
 
-BASEURL = 'http://10.5.0.1:8000'
+BASEURL = 'localhost:8060'
 
 DATABASES = {
     'default': {
